@@ -71,3 +71,15 @@
 /home/ubuntu/source/net5WebApi/obj/Debug/net5.0/ref/Catalog.dll
 /home/ubuntu/source/net5WebApi/obj/Debug/net5.0/Catalog.pdb
 /home/ubuntu/source/net5WebApi/obj/Debug/net5.0/Catalog.genruntimeconfig.cache
+/home/ubuntu/source/net5WebApi/bin/Debug/net5.0/DnsClient.dll
+/home/ubuntu/source/net5WebApi/bin/Debug/net5.0/MongoDB.Bson.dll
+/home/ubuntu/source/net5WebApi/bin/Debug/net5.0/MongoDB.Driver.dll
+/home/ubuntu/source/net5WebApi/bin/Debug/net5.0/MongoDB.Driver.Core.dll
+/home/ubuntu/source/net5WebApi/bin/Debug/net5.0/MongoDB.Libmongocrypt.dll
+/home/ubuntu/source/net5WebApi/bin/Debug/net5.0/SharpCompress.dll
+/home/ubuntu/source/net5WebApi/bin/Debug/net5.0/runtimes/win/native/libzstd.dll
+/home/ubuntu/source/net5WebApi/bin/Debug/net5.0/runtimes/win/native/snappy32.dll
+/home/ubuntu/source/net5WebApi/bin/Debug/net5.0/runtimes/win/native/snappy64.dll
+/home/ubuntu/source/net5WebApi/bin/Debug/net5.0/runtimes/linux/native/libmongocrypt.so
+/home/ubuntu/source/net5WebApi/bin/Debug/net5.0/runtimes/osx/native/libmongocrypt.dylib
+/home/ubuntu/source/net5WebApi/bin/Debug/net5.0/runtimes/win/native/mongocrypt.dll

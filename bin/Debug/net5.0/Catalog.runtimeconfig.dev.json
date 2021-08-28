@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/yadoy666/.dotnet/store/|arch|/|tfm|",
-      "/Users/yadoy666/.nuget/packages"
+      "/home/ubuntu/.dotnet/store/|arch|/|tfm|",
+      "/home/ubuntu/.nuget/packages"
     ]
   }
 }
